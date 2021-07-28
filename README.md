@@ -1,1 +1,1 @@
-# Face-Detection/Recogniztion
+# Project done with Python
